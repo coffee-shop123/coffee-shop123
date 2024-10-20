@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @coffee-shop123
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning php/flutter...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# coffee website
+### Coffee Website
 
-<!---
-coffee-shop123/coffee-shop123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### This template was created by <a href="https://github.com/bedimcode">BedimCode</a>
+
+- Responsive Coffee Website Design Using HTML CSS & JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+![preview img](/preview.png)
